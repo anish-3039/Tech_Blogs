@@ -7,13 +7,13 @@ This project is a simple blog application built with React. It features a clean 
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshot_page1.png)
+![Home Page](images/page1.png)
 
 ### Pages
-![Page 2](screenshot_page2.png)
+![Page 2](images/page2.png)
 
 ### Tag Filter
-![Tag Filter](screenshot_tagged.png)
+![Tag Filter](images/tagged.png)
 
 ### Components Folder (`src/Components`):
 - **Header**
